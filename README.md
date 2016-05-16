@@ -48,7 +48,14 @@ Unlike logarithmic complexity, the time increases proportionally as the data set
 An algorithm is said to run in logarithmic time if its time execution is proportional to the square of the input size.E This gets slower 1 item takes 1 second, 10 items takes 100 seconds.Example is the bubble sort, insertion sort and the selection sort 
 
 #####Exponential Complexity 
+O(2N) denotes an algorithm whose growth doubles with each additon to the input data set. The growth curve of an O(2N) function is exponential - starting off very shallow, then rising meteorically. An example of an O(2N) function is the recursive calculation of Fibonacci numbers:
 
+int Fibonacci(int number)
+{
+    if (number <= 1) return number;
+
+    return Fibonacci(number - 2) + Fibonacci(number - 1);
+}
 
 
 
