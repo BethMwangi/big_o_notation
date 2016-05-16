@@ -25,8 +25,18 @@ Efficiency covers the following;
 
 ###Types of Algorithic Complexities(running time)
 
+
 #####Constant Complexity O(1)
 This means that the size of the data is irrelevant, the algorithm will always take a constant time. 1 item takes 1 second, 10 items takes 1 second, 100 items takes 1 second. It always takes the same amount of time.In short it takes the same amount of time regardless of the amount or size of the data.running time is denoted by O(1).
+=======
+#####Constant Complexity Order of One
+This means that the size of the data is irrelevant, the algorithm will always take a constant time. 1 item takes 1 second, 10 items takes 1 second, 100 items takes 1 second. It always takes the same amount of time.In short it takes the same amount of time regardless of the amount or size of the data.running time is denoted by O(1).
+#####Logarithmic Complexity
+#####Linear Complexity
+#####Qadratic Complexity
+#####Cubic Complexity
+#####Exponential Complexity
+
 
 #####Logarithmic Complexity O(log n)
 In this complexity, the time increases with the size of the data set, but not in a proportional manner. e.g one item takes 1 sec, 10 items take 2 seconds,e.t.c meaning the time increases as the data set is added. e.g the binary search.
