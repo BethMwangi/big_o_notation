@@ -27,8 +27,8 @@ Efficiency covers the following;
 
 
 #####Constant Complexity O(1)
-This means that the size of the data is irrelevant, the algorithm will always take a constant time. 1 item takes 1 second, 10 items takes 1 second, 100 items takes 1 second. It always takes the same amount of time.In short it takes the same amount of time regardless of the amount or size of the data.running time is denoted by O(1).
-=======
+ This means that the size of the data is irrelevant, the algorithm will always take a constant time. 1 item takes 1 second, 10 items takes 1 second, 100 items takes 1 second. It always takes the same amount of time.In short it takes the same amount of time regardless of the amount or size of the data.running time is denoted by O(1).
+
 #####Constant Complexity Order of One
 This means that the size of the data is irrelevant, the algorithm will always take a constant time. 1 item takes 1 second, 10 items takes 1 second, 100 items takes 1 second. It always takes the same amount of time.In short it takes the same amount of time regardless of the amount or size of the data.running time is denoted by O(1).
 #####Logarithmic Complexity
