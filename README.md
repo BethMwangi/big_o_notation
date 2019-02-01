@@ -1,10 +1,7 @@
 # big_o_notation
 This repo explains the Big O Notation and its complexities. 
 
-###Contributors 
-* Beth Mwangi
-* Marcus Muasa
-* Dennis Githua
+
 
 Big O references how **complex** an algorithm is.
 It assumes the worst case (algorithm that will run the slowest).
