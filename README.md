@@ -3,7 +3,7 @@ This repo explains the Big O Notation and its complexities.
 
 
 
-Big O references how **complex** an algorithm is.
+Big O references how ***complex*** an algorithm is.
 It assumes the worst case (algorithm that will run the slowest).
 We want to know whether the runtime is constant, linear,exponential, logarithmic and quadratic.
 Big O is the way of measuring the efficiency of an algorithm and how well it scales based on the size of the dataset.
